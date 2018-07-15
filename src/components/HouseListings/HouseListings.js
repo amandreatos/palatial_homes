@@ -15,7 +15,7 @@ class HouseListings extends Component {
         );
       });
     }
-    console.log(this.props.listings);
+
     return (
       <div className="HouseListings">
         <Container>
